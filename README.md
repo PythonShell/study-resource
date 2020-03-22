@@ -7,6 +7,8 @@ Keep track of E-learning resources
 | -------- | -------- | -------- | -------- |
 | [剑桥教科书](https://www.cambridge.org/core/what-we-publish/textbooks) | | 目前因为访问量太大暂时关闭 | [官方链接](https://www.cambridge.org/core/what-we-publish/textbooks) |
 | [柏林爱乐](https://www.digitalconcerthall.com/zh/concerts) | 2020-03-31 | 音乐会资源 | https://www.digitalconcerthall.com/zh/concerts |
+| [The Wire](https://reader.exacteditions.com/magazines/493/issues/) | 一周内 | 过往超过 430 期的 Archive 内容。 | [著名先锋音乐杂志《The Wire》向公众免费开放所有出版 Archive](http://nowre.com/lifestyle/490067/zhumingxianfengyinlezazhithe-wirexianggongzhongmianfeikaifangsuoyouchuban-archive/) |
+| [亚马逊全球听书](stories.audible.com/discovery) | | | |
 
 ## 2020-02
 
